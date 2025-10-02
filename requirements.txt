@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+python-multipart   # để FastAPI xử lý file upload
