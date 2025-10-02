@@ -4,3 +4,4 @@ torch
 torchvision
 Pillow
 python-multipart   # để FastAPI xử lý file upload
+gunicorn
